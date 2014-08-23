@@ -1,0 +1,25 @@
+{
+  "name": "<%= appName %>",
+  "version": "<%= appVersion %>",
+  "description": "<%= appDescription %>",
+  "main": "app.js",
+  "repository": {
+    "url": "http://github.com/<%=userName%>/<%= appName %>"
+  },
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "author": {
+    "name": "<%= authorName %>",
+    "url": "<%= authorEmail %>"
+  },
+  "dependencies": {
+    "hapi": "^6.5.1",
+    "handlebars": "^2.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-nodemon": "^1.0.4",
+    "gulp-jshint": "^1.8.4"
+  }
+}

@@ -24,6 +24,14 @@ Run the generator from within the new folder:
 ```bash
 $ cd my-slush-hapi && slush hapi
 ```
+## Extra
+This generator have any tasks running with gulp:
+
+To run application for development, use:
+
+```
+$ gulp develop
+```
 
 ## Getting To Know Slush
 
