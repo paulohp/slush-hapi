@@ -1,22 +1,22 @@
 {
-    "name": "slush-slush-hapi",
+    "name": "slush-hapi",
     "description": "Generate a simple scaffolding to build a hapi.js app from scratch",
     "version": "0.0.1",
-    "homepage": "https://github.com/paulohp/slush-slush-hapi",
+    "homepage": "https://github.com/paulohp/slush-hapi",
     "author": {
         "name": "Paulo Pires",
         "email": "taralloqueiroiz@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/paulohp/slush-slush-hapi.git"
+        "url": "git://github.com/paulohp/slush-hapi.git"
     },
     "bugs": {
-        "url": "https://github.com/paulohp/slush-slush-hapi/issues"
+        "url": "https://github.com/paulohp/slush-hapi/issues"
     },
     "licenses": [{
         "type": "MIT",
-        "url": "https://github.com/paulohp/slush-slush-hapi/blob/master/LICENSE"
+        "url": "https://github.com/paulohp/slush-hapi/blob/master/LICENSE"
     }],
     "main": "slushfile.js",
     "engines": {
@@ -38,6 +38,7 @@
         "iniparser": "^1.0.5"
     },
     "keywords": [
-        "slushgenerator"
+        "slushgenerator",
+        "hapi"
     ]
 }
