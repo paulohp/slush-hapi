@@ -1,7 +1,7 @@
 {
     "name": "slush-hapi",
     "description": "Generate a simple scaffolding to build a hapi.js app from scratch",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage": "https://github.com/paulohp/slush-hapi",
     "author": {
         "name": "Paulo Pires",

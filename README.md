@@ -22,7 +22,7 @@ $ mkdir my-slush-hapi
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-hapi && slush slush-hapi
+$ cd my-slush-hapi && slush hapi
 ```
 
 ## Getting To Know Slush
