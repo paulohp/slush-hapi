@@ -1,14 +1,14 @@
-# slush-hapi [![Build Status](https://secure.travis-ci.org/paulohp/slush-slush-hapi.png?branch=master)](https://travis-ci.org/paulohp/slush-slush-hapi) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-hapi.png)](http://badges.enytc.com/for/npm/slush-slush-hapi)
+# slush-hapi [![Build Status](https://secure.travis-ci.org/paulohp/slush-hapi.png?branch=master)](https://travis-ci.org/paulohp/slush-hapi) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-hapi.png)](http://badges.enytc.com/for/npm/slush-hapi)
 
 > Generate a simple scaffolding to build a hapi.js app from scratch
 
 
 ## Getting Started
 
-Install `slush-slush-hapi` globally:
+Install `slush-hapi` globally:
 
 ```bash
-$ npm install -g slush-slush-hapi
+$ npm install -g slush-hapi
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-hapi
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-hapi
+$ mkdir my-slush-hapi
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-hapi && slush slush-hapi
+$ cd my-slush-hapi && slush slush-hapi
 ```
 
 ## Getting To Know Slush
@@ -35,12 +35,12 @@ To find out more about Slush, check out the [documentation](https://github.com/k
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/paulohp/slush-slush-hapi/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/paulohp/slush-hapi/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/paulohp/slush-slush-hapi/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/paulohp/slush-hapi/issues).
 
-## License 
+## License
 
 The MIT License
 
@@ -66,4 +66,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
